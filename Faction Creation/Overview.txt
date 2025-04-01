@@ -22,3 +22,6 @@ The Ability Sheet is used to create Ability Cards:
 
 The Advantage and Disadvantage Sheet is used as a reference sheet, it contains 
 a table of all the possible unit types and their advantage/disadvantage. 
+
+## Creating Cards:
+[Card Creation Software] (https://cardconjurer.com/creator)
