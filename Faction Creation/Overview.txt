@@ -1,0 +1,18 @@
+The Weapons Template is used to create weapons:
+
+-The Attack Dice can range from (X) D4 - D20
+-The Weapons Types can be found in the "Advantages and Disadvantages" Sheet
+- Range can be: Melee, Short, Medium, or Long
+- Abilities allow for more in depth custimization if desired
+
+The Unit Sheet is used to create units:
+- Health must be at least 1
+- Unit types can be found in the "Advantages and Disadvantages" Sheet
+- Speed can be: Slow, Average, Fast, Adrenaline Rush
+- Defense Dice can range from (X) D4 - D20
+-Advantages will be determined by your weapons
+-Disadvantages are determined by your unit type
+- Special Abilities allow for more in depth custimization if desired
+
+The Advantage and Disadvantage Sheet is used as a reference sheet, it contains 
+a table of all the possible unit types and their advantage/disadvantage. 
